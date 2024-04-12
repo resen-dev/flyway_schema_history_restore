@@ -7,7 +7,7 @@
 ### Usage
 Navigate to the script directory and execute the following command in your terminal
 ```bash
-python3 main.py
+python3 flyway_history_restore.py
 ```
 
 Enter the path to your db.migrations folder:
