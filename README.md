@@ -10,7 +10,7 @@ Navigate to the script directory and execute the following command in your termi
 python3 flyway_history_restore.py
 ```
 
-Enter the path to your db.migrations folder:
+Enter the path to your db.migration folder:
 ```bash
 db.migrations path: your-path/your-project/src/main/resources/db/migration
 ```
